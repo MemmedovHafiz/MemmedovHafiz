@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MemmedovHafiz
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Network Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m_hafiz007@outlook.com
 
