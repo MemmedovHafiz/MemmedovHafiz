@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MemmedovHafiz
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Network Security
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hafiz.m.i@outlook.com
 
 <!---
